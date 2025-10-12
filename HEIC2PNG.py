@@ -22,6 +22,6 @@ def convert_heic_to_png(folder_path):
                 print(f"Failed to convert {filename}: {e}")
 
 # 将下面的路径替换为你的文件夹路径
-folder_path = r'C:\Users\xijia\Desktop\D20240906_ISAIE2024_教育人工智能_陕西西安'
+folder_path = r'E:\Alpha\H生活方面\Y2022\D20220618_保利领秀海\D20250716_车位认购并网签\D20250802_车位合同副本'
 convert_heic_to_png(folder_path)
 
