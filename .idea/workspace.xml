@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a1a04152-5302-436e-bbcd-10ef87210241" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HEIC2PNG.py" beforeDir="false" afterPath="$PROJECT_DIR$/HEIC2PNG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HEIC2PNG.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +88,8 @@
       <workItem from="1754671036014" duration="10000" />
       <workItem from="1761397434104" duration="613000" />
       <workItem from="1761398839453" duration="11000" />
+      <workItem from="1763609290636" duration="171000" />
+      <workItem from="1763609468884" duration="16000" />
     </task>
     <servers />
   </component>
@@ -95,7 +97,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HEIC2PNG$HEIC2PNG.coverage" NAME="HEIC2PNG 覆盖结果" MODIFIED="1761397447848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HEIC2PNG$HEIC2PNG.coverage" NAME="HEIC2PNG 覆盖结果" MODIFIED="1763609300964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HEIC2PNG$FileNameAsDate.coverage" NAME="FileNameAsDate Coverage Results" MODIFIED="1720705748774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../FileNameAsDate" />
   </component>
 </project>
